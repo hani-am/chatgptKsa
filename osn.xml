@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="www.matthuisman.nz">
+
+    <!-- OSN Movies Premiere (Channel 3) -->
+    <channel id="osn_movies_premiere_3">
+        <display-name>OSN Movies Premiere</display-name>
+        <!-- Optional icon -->
+        <icon src="URL_to_icon_image"/>
+    </channel>
+    <programme start="20231218T190500Z" stop="20231218T205000Z" channel="osn_movies_premiere_3">
+        <title>The Flash</title>
+        <sub-title>2023</sub-title>
+        <!-- Optional episode number if applicable -->
+        <episode-num system="onscreen">S01E01</episode-num>
+        <!-- Optional description -->
+        <desc>The Flash faces new challenges in his fight against crime.</desc>
+    </programme>
+    <programme start="20231218T205000Z" stop="20231218T225000Z" channel="osn_movies_premiere_3">
+        <title>Blue Beetle</title>
+        <sub-title>2023</sub-title>
+        <episode-num system="onscreen">S01E02</episode-num>
+        <desc>Blue Beetle defends the city from powerful enemies.</desc>
+    </programme>
+    <programme start="20231218T231000Z" stop="20231219T010000Z" channel="osn_movies_premiere_3">
+        <title>War Game</title>
+        <sub-title>2024</sub-title>
+        <episode-num system="onscreen">S01E03</episode-num>
+        <desc>War Game takes the viewer through intense military strategies.</desc>
+    </programme>
+
+    <!-- OSN Movies Action (Channel 12) -->
+    <channel id="osn_movies_action_12">
+        <display-name>OSN Movies Action</display-name>
+        <icon src="URL_to_icon_image"/>
+    </channel>
+    <programme start="20231218T183500Z" stop="20231218T195000Z" channel="osn_movies_action_12">
+        <title>Mafia Mamma</title>
+        <sub-title>2023</sub-title>
+        <episode-num system="onscreen">S01E01</episode-num>
+        <desc>A woman inherits a mafia empire and tries to handle her new life.</desc>
+    </programme>
+    <programme start="20231218T195500Z" stop="20231218T215500Z" channel="osn_movies_action_12">
+        <title>Rampage</title>
+        <sub-title>2018</sub-title>
+        <episode-num system="onscreen">S01E02</episode-num>
+        <desc>Rampage explores the battle between man and monstrous creatures.</desc>
+    </programme>
+    <programme start="20231218T215500Z" stop="20231218T235500Z" channel="osn_movies_action_12">
+        <title>Locke</title>
+        <sub-title>2013</sub-title>
+        <episode-num system="onscreen">S01E03</episode-num>
+        <desc>Locke follows a man facing a life-changing decision.</desc>
+    </programme>
+    <programme start="20231219T003500Z" stop="20231219T023500Z" channel="osn_movies_action_12">
+        <title>Pacific Rim</title>
+        <sub-title>2013</sub-title>
+        <episode-num system="onscreen">S01E04</episode-num>
+        <desc>Giant robots fight to save Earth from alien monsters.</desc>
+    </programme>
+
+    <!-- OSN Movies Hollywood (Channel 14) -->
+    <channel id="osn_movies_hollywood_14">
+        <display-name>OSN Movies Hollywood</display-name>
+        <icon src="URL_to_icon_image"/>
+    </channel>
+    <programme start="20231218T195500Z" stop="20231218T215500Z" channel="osn_movies_hollywood_14">
+        <title>Blackkklansman</title>
+        <sub-title>2018</sub-title>
+        <episode-num system="onscreen">S01E01</episode-num>
+        <desc>A true story about the first black cop in the KKK.</desc>
+    </programme>
+    <programme start="20231218T213000Z" stop="20231218T233000Z" channel="osn_movies_hollywood_14">
+        <title>The Mule</title>
+        <sub-title>2018</sub-title>
+        <episode-num system="onscreen">S01E02</episode-num>
+        <desc>A man becomes a mule for a drug cartel.</desc>
+    </programme>
+    <programme start="20231219T001500Z" stop="20231219T021500Z" channel="osn_movies_hollywood_14">
+        <title>The Mule</title>
+        <sub-title>2018</sub-title>
+        <episode-num system="onscreen">S01E03</episode-num>
+        <desc>Continued from previous episode.</desc>
+    </programme>
+
+    <!-- OSN Showcase (Channel 1) -->
+    <channel id="osn_showcase_1">
+        <display-name>OSN Showcase</display-name>
+        <icon src="URL_to_icon_image"/>
+    </channel>
+    <programme start="20231218T193000Z" stop="20231218T213000Z" channel="osn_showcase_1">
+        <title>The Flash</title>
+        <sub-title>2023</sub-title>
+        <episode-num system="onscreen">S01E01</episode-num>
+        <desc>The Flash faces new challenges in his fight against crime.</desc>
+    </programme>
+    <programme start="20231218T213000Z" stop="20231218T233000Z" channel="osn_showcase_1">
+        <title>Blue Beetle</title>
+        <sub-title>2023</sub-title>
+        <episode-num system="onscreen">S01E02</episode-num>
+        <desc>Blue Beetle defends the city from powerful enemies.</desc>
+    </programme>
+    <programme start="20231218T233000Z" stop="20231219T010000Z" channel="osn_showcase_1">
+        <title>War Game</title>
+        <sub-title>2024</sub-title>
+        <episode-num system="onscreen">S01E03</episode-num>
+        <desc>War Game takes the viewer through intense military strategies.</desc>
+    </programme>
+
+    <!-- OSN One (Channel 2) -->
+    <channel id="osn_one_2">
+        <display-name>OSN One</display-name>
+        <icon src="URL_to_icon_image"/>
+    </channel>
+    <programme start="20231218T190000Z" stop="20231218T210000Z" channel="osn_one_2">
+        <title>The Flash</title>
+        <sub-title>2023</sub-title>
+        <episode-num system="onscreen">S01E01</episode-num>
+        <desc>The Flash faces new challenges in his fight against crime.</desc>
+    </programme>
+    <programme start="20231218T210000Z" stop="20231218T230000Z" channel="osn_one_2">
+        <title>Blue Beetle</title>
+        <sub-title>2023</sub-title>
+        <episode-num system="onscreen">S01E02</episode-num>
+        <desc>Blue Beetle defends the city from powerful enemies.</desc>
+    </programme>
+    <programme start="20231218T230000Z" stop="20231219T010000Z" channel="osn_one_2">
+        <title>War Game</title>
+        <sub-title>2024</sub-title>
+        <episode-num system="onscreen">S01E03</episode-num>
+        <desc>War Game takes the viewer through intense military strategies.</desc>
+    </programme>
+
+</tv>
