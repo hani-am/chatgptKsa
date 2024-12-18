@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<epg>
+  <channel id="osn_movies_premiere">
+    <name>OSN Movies Premiere</name>
+    <programs>
+      <program>
+        <title>The Flash</title>
+        <start_time>2024-12-18T12:10:00</start_time>
+        <end_time>2024-12-18T14:10:00</end_time>
+        <description>The Flash (2023)</description>
+      </program>
+      <program>
+        <title>Monkey Man</title>
+        <start_time>2024-12-18T14:15:00</start_time>
+        <end_time>2024-12-18T16:00:00</end_time>
+        <description>Monkey Man (2024)</description>
+      </program>
+      <program>
+        <title>Blue Beetle</title>
+        <start_time>2024-12-18T16:05:00</start_time>
+        <end_time>2024-12-18T18:05:00</end_time>
+        <description>Blue Beetle (2023)</description>
+      </program>
+      <program>
+        <title>War Game</title>
+        <start_time>2024-12-18T18:10:00</start_time>
+        <end_time>2024-12-18T19:40:00</end_time>
+        <description>War Game (2024)</description>
+      </program>
+      <program>
+        <title>DC League of Super-Pets</title>
+        <start_time>2024-12-18T19:45:00</start_time>
+        <end_time>2024-12-18T21:10:00</end_time>
+        <description>DC League of Super-Pets (2022)</description>
+      </program>
+      <program>
+        <title>Mummies</title>
+        <start_time>2024-12-18T21:15:00</start_time>
+        <end_time>2024-12-18T22:40:00</end_time>
+        <description>Mummies (2023)</description>
+      </program>
+      <program>
+        <title>My Big Fat Greek Wedding 3</title>
+        <start_time>2024-12-18T22:45:00</start_time>
+        <end_time>2024-12-18T23:50:00</end_time>
+        <description>My Big Fat Greek Wedding 3 (2023)</description>
+      </program>
+      <program>
+        <title>Which Brings Me to You</title>
+        <start_time>2024-12-18T23:55:00</start_time>
+        <end_time>2024-12-19T01:05:00</end_time>
+        <description>Which Brings Me to You (2023)</description>
+      </program>
+      <program>
+        <title>The Killer</title>
+        <start_time>2024-12-19T01:10:00</start_time>
+        <end_time>2024-12-19T03:00:00</end_time>
+        <description>The Killer (2024)</description>
+      </program>
+      <program>
+        <title>Monkey Man</title>
+        <start_time>2024-12-19T03:10:00</start_time>
+        <end_time>2024-12-19T05:00:00</end_time>
+        <description>Monkey Man (2024)</description>
+      </program>
+    </programs>
+  </channel>
+
+  <channel id="osn_movies_hollywood">
+    <name>OSN Movies Hollywood</name>
+    <programs>
+      <program>
+        <title>BlacKkKlansman</title>
+        <start_time>2024-12-18T23:50:00</start_time>
+        <end_time>2024-12-19T02:20:00</end_time>
+        <description>BlacKkKlansman (2018)</description>
+      </program>
+      <program>
+        <title>Unforgettable</title>
+        <start_time>2024-12-19T02:20:00</start_time>
+        <end_time>2024-12-19T04:15:00</end_time>
+        <description>Unforgettable (2017)</description>
+      </program>
+      <program>
+        <title>Devil's Peak</title>
+        <start_time>2024-12-19T04:15:00</start_time>
+        <end_time>2024-12-19T05:55:00</end_time>
+        <description>Devil's Peak (2023)</description>
+      </program>
+      <program>
+        <title>Gravity</title>
+        <start_time>2024-12-19T05:55:00</start_time>
+        <end_time>2024-12-19T07:50:00</end_time>
+        <description>Gravity (2013)</description>
+      </program>
+      <program>
+        <title>First Man</title>
+        <start_time>2024-12-19T07:50:00</start_time>
+        <end_time>2024-12-19T10:05:00</end_time>
+        <description>First Man (2018)</description>
+      </program>
+      <program>
+        <title>The Artist</title>
+        <start_time>2024-12-19T10:05:00</start_time>
+        <end_time>2024-12-19T12:00:00</end_time>
+        <description>The Artist (2011)</description>
+      </program>
+      <program>
+        <title>When You Finish Saving the World</title>
+        <start_time>2024-12-19T12:00:00</start_time>
+        <end_time>2024-12-19T13:30:00</end_time>
+        <description>When You Finish Saving the World (2022)</description>
+      </program>
+      <program>
+        <title>The Mule</title>
+        <start_time>2024-12-19T13:30:00</start_time>
+        <end_time>2024-12-19T15:25:00</end_time>
+        <description>The Mule (2018)</description>
+      </program>
+      <program>
+        <title>A Thousand and One</title>
+        <start_time>2024-12-19T15:25:00</start_time>
+        <end_time>2024-12-19T17:30:00</end_time>
+        <description>A Thousand and One (2023)</description>
+      </program>
+    </programs>
+  </channel>
+</epg>
