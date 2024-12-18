@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="www.matthuisman.nz">
+
+    <!-- OSN Movies Premiere (Channel 3) -->
+    <channel id="osn_movies_premiere_3">
+        <display-name>OSN Movies Premiere</display-name>
+    </channel>
+    <programme start="20231218T190500Z" stop="20231218T205000Z" channel="osn_movies_premiere_3">
+        <title>The Flash</title>
+        <sub-title>2023</sub-title>
+    </programme>
+    <programme start="20231218T205000Z" stop="20231218T225000Z" channel="osn_movies_premiere_3">
+        <title>Blue Beetle</title>
+        <sub-title>2023</sub-title>
+    </programme>
+    <programme start="20231218T231000Z" stop="20231219T010000Z" channel="osn_movies_premiere_3">
+        <title>War Game</title>
+        <sub-title>2024</sub-title>
+    </programme>
+
+    <!-- OSN Movies Action (Channel 12) -->
+    <channel id="osn_movies_action_12">
+        <display-name>OSN Movies Action</display-name>
+    </channel>
+    <programme start="20231218T183500Z" stop="20231218T195000Z" channel="osn_movies_action_12">
+        <title>Mafia Mamma</title>
+        <sub-title>2023</sub-title>
+    </programme>
+    <programme start="20231218T195500Z" stop="20231218T215500Z" channel="osn_movies_action_12">
+        <title>Rampage</title>
+        <sub-title>2018</sub-title>
+    </programme>
+    <programme start="20231218T215500Z" stop="20231218T235500Z" channel="osn_movies_action_12">
+        <title>Locke</title>
+        <sub-title>2013</sub-title>
+    </programme>
+    <programme start="20231219T003500Z" stop="20231219T023500Z" channel="osn_movies_action_12">
+        <title>Pacific Rim</title>
+        <sub-title>2013</sub-title>
+    </programme>
+
+    <!-- OSN Movies Hollywood (Channel 14) -->
+    <channel id="osn_movies_hollywood_14">
+        <display-name>OSN Movies Hollywood</display-name>
+    </channel>
+    <programme start="20231218T195500Z" stop="20231218T215500Z" channel="osn_movies_hollywood_14">
+        <title>Blackkklansman</title>
+        <sub-title>2018</sub-title>
+    </programme>
+    <programme start="20231218T213000Z" stop="20231218T233000Z" channel="osn_movies_hollywood_14">
+        <title>The Mule</title>
+        <sub-title>2018</sub-title>
+    </programme>
+    <programme start="20231219T001500Z" stop="20231219T021500Z" channel="osn_movies_hollywood_14">
+        <title>The Mule</title>
+        <sub-title>2018</sub-title>
+    </programme>
+
+    <!-- OSN Showcase (Channel 1) -->
+    <channel id="osn_showcase_1">
+        <display-name>OSN Showcase</display-name>
+    </channel>
+    <programme start="20231218T193000Z" stop="20231218T213000Z" channel="osn_showcase_1">
+        <title>The Flash</title>
+        <sub-title>2023</sub-title>
+    </programme>
+    <programme start="20231218T213000Z" stop="20231218T233000Z" channel="osn_showcase_1">
+        <title>Blue Beetle</title>
+        <sub-title>2023</sub-title>
+    </programme>
+    <programme start="20231218T233000Z" stop="20231219T010000Z" channel="osn_showcase_1">
+        <title>War Game</title>
+        <sub-title>2024</sub-title>
+    </programme>
+
+    <!-- OSN One (Channel 2) -->
+    <channel id="osn_one_2">
+        <display-name>OSN One</display-name>
+    </channel>
+    <programme start="20231218T190000Z" stop="20231218T210000Z" channel="osn_one_2">
+        <title>The Flash</title>
+        <sub-title>2023</sub-title>
+    </programme>
+    <programme start="20231218T210000Z" stop="20231218T230000Z" channel="osn_one_2">
+        <title>Blue Beetle</title>
+        <sub-title>2023</sub-title>
+    </programme>
+    <programme start="20231218T230000Z" stop="20231219T010000Z" channel="osn_one_2">
+        <title>War Game</title>
+        <sub-title>2024</sub-title>
+    </programme>
+
+</tv>
