@@ -2,39 +2,39 @@
 <tv>
     <channel id="3">
         <display-name>OSN Movies Prime</display-name>
-        <programme start="031500" channel="3">
+        <programme start="061500" channel="3">
             <title>Polite Society (2023)</title>
             <desc>A martial artist-in-training believes she must save her older sister from her impending marriage.</desc>
         </programme>
-        <programme start="050000" channel="3">
+        <programme start="080000" channel="3">
             <title>Trending Now</title>
             <desc>A showcase of the latest movies and series.</desc>
         </programme>
-        <programme start="101000" channel="3">
+        <programme start="131000" channel="3">
             <title>Polite Society (2023)</title>
             <desc>Encore presentation.</desc>
         </programme>
-        <programme start="121500" channel="3">
+        <programme start="151500" channel="3">
             <title>Trending Now</title>
             <desc>A showcase of the latest movies and series.</desc>
         </programme>
-        <programme start="135000" channel="3">
+        <programme start="165000" channel="3">
             <title>Polite Society (2023)</title>
             <desc>Encore presentation.</desc>
         </programme>
-        <programme start="152000" channel="3">
+        <programme start="182000" channel="3">
             <title>Trending Now</title>
             <desc>A showcase of the latest movies and series.</desc>
         </programme>
-        <programme start="171000" channel="3">
+        <programme start="201000" channel="3">
             <title>Polite Society (2023)</title>
             <desc>Encore presentation.</desc>
         </programme>
-        <programme start="194000" channel="3">
+        <programme start="224000" channel="3">
             <title>Trending Now</title>
             <desc>A showcase of the latest movies and series.</desc>
         </programme>
-        <programme start="222000" channel="3">
+        <programme start="252000" channel="3">
             <title>Polite Society (2023)</title>
             <desc>Encore presentation.</desc>
         </programme>
@@ -42,51 +42,39 @@
 
     <channel id="12">
         <display-name>OSN Movies Action</display-name>
-        <programme start="000000" channel="12">
+        <programme start="030000" channel="12">
             <title>Mafia Mamma (2023)</title>
             <desc>An American woman inherits her grandfather's mafia empire in Italy.</desc>
         </programme>
-        <programme start="015500" channel="12">
+        <programme start="045500" channel="12">
             <title>Justice League x RWBY: Super Heroes and Huntsmen Part One (2023)</title>
             <desc>DC's heroes are transported to a strange world and transformed into teenagers.</desc>
         </programme>
-        <programme start="035500" channel="12">
+        <programme start="075500" channel="12">
             <title>Mafia Mamma (2023)</title>
             <desc>Encore presentation.</desc>
         </programme>
-        <programme start="053500" channel="12">
+        <programme start="095500" channel="12">
             <title>Justice League x RWBY: Super Heroes and Huntsmen Part One (2023)</title>
             <desc>Encore presentation.</desc>
         </programme>
-        <programme start="074500" channel="12">
+        <programme start="124500" channel="12">
             <title>Mafia Mamma (2023)</title>
             <desc>Encore presentation.</desc>
         </programme>
-        <programme start="093500" channel="12">
+        <programme start="143500" channel="12">
             <title>Justice League x RWBY: Super Heroes and Huntsmen Part One (2023)</title>
             <desc>Encore presentation.</desc>
         </programme>
-        <programme start="112500" channel="12">
+        <programme start="174500" channel="12">
             <title>Mafia Mamma (2023)</title>
             <desc>Encore presentation.</desc>
         </programme>
-        <programme start="133000" channel="12">
+        <programme start="203000" channel="12">
             <title>Justice League x RWBY: Super Heroes and Huntsmen Part One (2023)</title>
             <desc>Encore presentation.</desc>
         </programme>
-        <programme start="155000" channel="12">
-            <title>Mafia Mamma (2023)</title>
-            <desc>Encore presentation.</desc>
-        </programme>
-        <programme start="200000" channel="12">
-            <title>Mafia Mamma (2023)</title>
-            <desc>Encore presentation.</desc>
-        </programme>
-        <programme start="213000" channel="12">
-            <title>Justice League x RWBY: Super Heroes and Huntsmen Part One (2023)</title>
-            <desc>Encore presentation.</desc>
-        </programme>
-        <programme start="224500" channel="12">
+        <programme start="225000" channel="12">
             <title>Mafia Mamma (2023)</title>
             <desc>Encore presentation.</desc>
         </programme>
@@ -94,43 +82,43 @@
 
     <channel id="14">
         <display-name>OSN Movies Hollywood</display-name>
-        <programme start="033000" channel="14">
+        <programme start="063000" channel="14">
             <title>Contagion (2011)</title>
             <desc>A deadly virus outbreak leads to a global pandemic.</desc>
         </programme>
-        <programme start="051500" channel="14">
+        <programme start="081500" channel="14">
             <title>Trending Now</title>
             <desc>A showcase of the latest movies and series.</desc>
         </programme>
-        <programme start="093000" channel="14">
+        <programme start="123000" channel="14">
             <title>Contagion (2011)</title>
             <desc>Encore presentation.</desc>
         </programme>
-        <programme start="113500" channel="14">
+        <programme start="143500" channel="14">
             <title>Trending Now</title>
             <desc>A showcase of the latest movies and series.</desc>
         </programme>
-        <programme start="131000" channel="14">
+        <programme start="161000" channel="14">
             <title>Contagion (2011)</title>
             <desc>Encore presentation.</desc>
         </programme>
-        <programme start="153000" channel="14">
+        <programme start="183000" channel="14">
             <title>Trending Now</title>
             <desc>A showcase of the latest movies and series.</desc>
         </programme>
-        <programme start="172500" channel="14">
+        <programme start="202500" channel="14">
             <title>Contagion (2011)</title>
             <desc>Encore presentation.</desc>
         </programme>
-        <programme start="192000" channel="14">
+        <programme start="222000" channel="14">
             <title>Trending Now</title>
             <desc>A showcase of the latest movies and series.</desc>
         </programme>
-        <programme start="210000" channel="14">
+        <programme start="240000" channel="14">
             <title>Contagion (2011)</title>
             <desc>Encore presentation.</desc>
         </programme>
-        <programme start="231500" channel="14">
+        <programme start="261500" channel="14">
             <title>Contagion (2011)</title>
             <desc>Encore presentation.</desc>
         </programme>
