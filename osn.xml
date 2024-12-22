@@ -1,94 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="www.matthuisman.nz">
-
-    <!-- OSN Movies Premiere (Channel 3) -->
-    <channel id="osn_movies_premiere_3">
-        <display-name>OSN Movies Premiere</display-name>
+<tv>
+    <channel id="3">
+        <display-name>OSN Movies Prime</display-name>
+        <programme start="031500" channel="3">
+            <title>Polite Society (2023)</title>
+            <desc>A martial artist-in-training believes she must save her older sister from her impending marriage.</desc>
+        </programme>
+        <programme start="050000" channel="3">
+            <title>Trending Now</title>
+            <desc>A showcase of the latest movies and series.</desc>
+        </programme>
+        <programme start="101000" channel="3">
+            <title>Polite Society (2023)</title>
+            <desc>Encore presentation.</desc>
+        </programme>
+        <programme start="121500" channel="3">
+            <title>Trending Now</title>
+            <desc>A showcase of the latest movies and series.</desc>
+        </programme>
+        <programme start="135000" channel="3">
+            <title>Polite Society (2023)</title>
+            <desc>Encore presentation.</desc>
+        </programme>
+        <programme start="152000" channel="3">
+            <title>Trending Now</title>
+            <desc>A showcase of the latest movies and series.</desc>
+        </programme>
+        <programme start="171000" channel="3">
+            <title>Polite Society (2023)</title>
+            <desc>Encore presentation.</desc>
+        </programme>
+        <programme start="194000" channel="3">
+            <title>Trending Now</title>
+            <desc>A showcase of the latest movies and series.</desc>
+        </programme>
+        <programme start="222000" channel="3">
+            <title>Polite Society (2023)</title>
+            <desc>Encore presentation.</desc>
+        </programme>
     </channel>
-    <programme start="20231218T190500Z" stop="20231218T205000Z" channel="osn_movies_premiere_3">
-        <title>The Flash</title>
-        <sub-title>2023</sub-title>
-    </programme>
-    <programme start="20231218T205000Z" stop="20231218T225000Z" channel="osn_movies_premiere_3">
-        <title>Blue Beetle</title>
-        <sub-title>2023</sub-title>
-    </programme>
-    <programme start="20231218T231000Z" stop="20231219T010000Z" channel="osn_movies_premiere_3">
-        <title>War Game</title>
-        <sub-title>2024</sub-title>
-    </programme>
 
-    <!-- OSN Movies Action (Channel 12) -->
-    <channel id="osn_movies_action_12">
+    <channel id="12">
         <display-name>OSN Movies Action</display-name>
+        <programme start="000000" channel="12">
+            <title>Mafia Mamma (2023)</title>
+            <desc>An American woman inherits her grandfather's mafia empire in Italy.</desc>
+        </programme>
+        <programme start="015500" channel="12">
+            <title>Justice League x RWBY: Super Heroes and Huntsmen Part One (2023)</title>
+            <desc>DC's heroes are transported to a strange world and transformed into teenagers.</desc>
+        </programme>
+        <programme start="035500" channel="12">
+            <title>Mafia Mamma (2023)</title>
+            <desc>Encore presentation.</desc>
+        </programme>
+        <programme start="053500" channel="12">
+            <title>Justice League x RWBY: Super Heroes and Huntsmen Part One (2023)</title>
+            <desc>Encore presentation.</desc>
+        </programme>
+        <programme start="074500" channel="12">
+            <title>Mafia Mamma (2023)</title>
+            <desc>Encore presentation.</desc>
+        </programme>
+        <programme start="093500" channel="12">
+            <title>Justice League x RWBY: Super Heroes and Huntsmen Part One (2023)</title>
+            <desc>Encore presentation.</desc>
+        </programme>
+        <programme start="112500" channel="12">
+            <title>Mafia Mamma (2023)</title>
+            <desc>Encore presentation.</desc>
+        </programme>
+        <programme start="133000" channel="12">
+            <title>Justice League x RWBY: Super Heroes and Huntsmen Part One (2023)</title>
+            <desc>Encore presentation.</desc>
+        </programme>
+        <programme start="155000" channel="12">
+            <title>Mafia Mamma (2023)</title>
+            <desc>Encore presentation.</desc>
+        </programme>
+        <programme start="200000" channel="12">
+            <title>Mafia Mamma (2023)</title>
+            <desc>Encore presentation.</desc>
+        </programme>
+        <programme start="213000" channel="12">
+            <title>Justice League x RWBY: Super Heroes and Huntsmen Part One (2023)</title>
+            <desc>Encore presentation.</desc>
+        </programme>
+        <programme start="224500" channel="12">
+            <title>Mafia Mamma (2023)</title>
+            <desc>Encore presentation.</desc>
+        </programme>
     </channel>
-    <programme start="20231218T183500Z" stop="20231218T195000Z" channel="osn_movies_action_12">
-        <title>Mafia Mamma</title>
-        <sub-title>2023</sub-title>
-    </programme>
-    <programme start="20231218T195500Z" stop="20231218T215500Z" channel="osn_movies_action_12">
-        <title>Rampage</title>
-        <sub-title>2018</sub-title>
-    </programme>
-    <programme start="20231218T215500Z" stop="20231218T235500Z" channel="osn_movies_action_12">
-        <title>Locke</title>
-        <sub-title>2013</sub-title>
-    </programme>
-    <programme start="20231219T003500Z" stop="20231219T023500Z" channel="osn_movies_action_12">
-        <title>Pacific Rim</title>
-        <sub-title>2013</sub-title>
-    </programme>
 
-    <!-- OSN Movies Hollywood (Channel 14) -->
-    <channel id="osn_movies_hollywood_14">
+    <channel id="14">
         <display-name>OSN Movies Hollywood</display-name>
+        <programme start="033000" channel="14">
+            <title>Contagion (2011)</title>
+            <desc>A deadly virus outbreak leads to a global pandemic.</desc>
+        </programme>
+        <programme start="051500" channel="14">
+            <title>Trending Now</title>
+            <desc>A showcase of the latest movies and series.</desc>
+        </programme>
+        <programme start="093000" channel="14">
+            <title>Contagion (2011)</title>
+            <desc>Encore presentation.</desc>
+        </programme>
+        <programme start="113500" channel="14">
+            <title>Trending Now</title>
+            <desc>A showcase of the latest movies and series.</desc>
+        </programme>
+        <programme start="131000" channel="14">
+            <title>Contagion (2011)</title>
+            <desc>Encore presentation.</desc>
+        </programme>
+        <programme start="153000" channel="14">
+            <title>Trending Now</title>
+            <desc>A showcase of the latest movies and series.</desc>
+        </programme>
+        <programme start="172500" channel="14">
+            <title>Contagion (2011)</title>
+            <desc>Encore presentation.</desc>
+        </programme>
+        <programme start="192000" channel="14">
+            <title>Trending Now</title>
+            <desc>A showcase of the latest movies and series.</desc>
+        </programme>
+        <programme start="210000" channel="14">
+            <title>Contagion (2011)</title>
+            <desc>Encore presentation.</desc>
+        </programme>
+        <programme start="231500" channel="14">
+            <title>Contagion (2011)</title>
+            <desc>Encore presentation.</desc>
+        </programme>
     </channel>
-    <programme start="20231218T195500Z" stop="20231218T215500Z" channel="osn_movies_hollywood_14">
-        <title>Blackkklansman</title>
-        <sub-title>2018</sub-title>
-    </programme>
-    <programme start="20231218T213000Z" stop="20231218T233000Z" channel="osn_movies_hollywood_14">
-        <title>The Mule</title>
-        <sub-title>2018</sub-title>
-    </programme>
-    <programme start="20231219T001500Z" stop="20231219T021500Z" channel="osn_movies_hollywood_14">
-        <title>The Mule</title>
-        <sub-title>2018</sub-title>
-    </programme>
-
-    <!-- OSN Showcase (Channel 1) -->
-    <channel id="osn_showcase_1">
-        <display-name>OSN Showcase</display-name>
-    </channel>
-    <programme start="20231218T193000Z" stop="20231218T213000Z" channel="osn_showcase_1">
-        <title>The Flash</title>
-        <sub-title>2023</sub-title>
-    </programme>
-    <programme start="20231218T213000Z" stop="20231218T233000Z" channel="osn_showcase_1">
-        <title>Blue Beetle</title>
-        <sub-title>2023</sub-title>
-    </programme>
-    <programme start="20231218T233000Z" stop="20231219T010000Z" channel="osn_showcase_1">
-        <title>War Game</title>
-        <sub-title>2024</sub-title>
-    </programme>
-
-    <!-- OSN One (Channel 2) -->
-    <channel id="osn_one_2">
-        <display-name>OSN One</display-name>
-    </channel>
-    <programme start="20231218T190000Z" stop="20231218T210000Z" channel="osn_one_2">
-        <title>The Flash</title>
-        <sub-title>2023</sub-title>
-    </programme>
-    <programme start="20231218T210000Z" stop="20231218T230000Z" channel="osn_one_2">
-        <title>Blue Beetle</title>
-        <sub-title>2023</sub-title>
-    </programme>
-    <programme start="20231218T230000Z" stop="20231219T010000Z" channel="osn_one_2">
-        <title>War Game</title>
-        <sub-title>2024</sub-title>
-    </programme>
-
 </tv>
